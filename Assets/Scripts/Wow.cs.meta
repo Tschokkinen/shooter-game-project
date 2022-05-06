@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 570a362bb86c9b3489564a4362be250d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wowKills: {fileID: 11400000, guid: 4662746426bdd6c4682890a2bd2d1537, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

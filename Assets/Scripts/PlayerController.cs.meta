@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a84f2732529cd7440a8291709a2dc2b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - isPaused: {fileID: 11400000, guid: c654f7465629f2e4d8261f0b3aacc724, type: 2}
+  - gunfire: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - aimCam: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - grenade: {instanceID: 0}
+  - gun: {instanceID: 0}
+  - PistolUI: {instanceID: 0}
+  - SMGUI: {instanceID: 0}
+  - ShotgunUI: {instanceID: 0}
+  - AmmoCounter: {instanceID: 0}
+  - ps: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ab3301246d786c748b2868a4ec012705
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - isPaused: {fileID: 11400000, guid: c654f7465629f2e4d8261f0b3aacc724, type: 2}
+  - level: {fileID: 11400000, guid: 3b2790b10a7f70b40b9047ac2fe8ef8b, type: 2}
+  - playTime: {fileID: 11400000, guid: d3d74625298c5ab47b3dec1f1035f5f1, type: 2}
+  - totalPlayTime: {fileID: 11400000, guid: 9ce2662a6f60b0a4fa8e584affe9d5d2, type: 2}
+  - exitGateActive: {fileID: 11400000, guid: 8a42c1afd6184c149a832cf586f6e7e8, type: 2}
+  - kills: {fileID: 11400000, guid: 70b059a635f8e26459dcb94ae534c06d, type: 2}
+  - bossKills: {fileID: 11400000, guid: 6a2d0b094fd897148bdd69d47cd9b878, type: 2}
+  - wowKills: {fileID: 11400000, guid: 4662746426bdd6c4682890a2bd2d1537, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

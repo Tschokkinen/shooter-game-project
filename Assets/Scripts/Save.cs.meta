@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c827f14f2bad356449845fba1c6d2cc5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Level: {fileID: 11400000, guid: 3b2790b10a7f70b40b9047ac2fe8ef8b, type: 2}
+  - Kills: {fileID: 11400000, guid: 70b059a635f8e26459dcb94ae534c06d, type: 2}
+  - BossKills: {fileID: 11400000, guid: 6a2d0b094fd897148bdd69d47cd9b878, type: 2}
+  - TotalPlayTime: {fileID: 11400000, guid: 9ce2662a6f60b0a4fa8e584affe9d5d2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

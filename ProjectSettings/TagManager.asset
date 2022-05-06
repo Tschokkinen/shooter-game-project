@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - 3D
+  - SMGPU
+  - ShotgunPU
+  - Bullet
+  - BossZone
+  - Grenade
+  - Spawn
+  - Minimap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Bullet
+  - Enviroment
+  - Enemy
+  - PickUp
+  - ShotgunShell
+  - Minimap
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: PaintOverTilemap
+    uniqueID: 2977240721
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BloodSpatter
+    uniqueID: 1685005199
+    locked: 0
+  - name: PickUp
+    uniqueID: 1599413537
+    locked: 0
+  - name: Enemy
+    uniqueID: 3913391235
+    locked: 0
+  - name: Bullet
+    uniqueID: 1356016235
+    locked: 0
+  - name: Player
+    uniqueID: 2879692645
+    locked: 0
+  - name: New Layer
+    uniqueID: 2999147173
+    locked: 0
+  - name: Minimap
+    uniqueID: 2821678143
+    locked: 0

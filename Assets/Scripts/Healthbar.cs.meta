@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a5a4c89000a16c4da2852d31230d8e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playTime: {fileID: 11400000, guid: d3d74625298c5ab47b3dec1f1035f5f1, type: 2}
+  - totalPlayTime: {fileID: 11400000, guid: 9ce2662a6f60b0a4fa8e584affe9d5d2, type: 2}
+  - timer: {instanceID: 0}
+  - healthbarImage: {instanceID: 0}
+  - playerDead: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

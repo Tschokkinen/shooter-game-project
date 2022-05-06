@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: e7e20f82a7eb04847ac00c4174e1184e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gunfire: {instanceID: 0}
+  - ExitGateActive: {fileID: 11400000, guid: 8a42c1afd6184c149a832cf586f6e7e8, type: 2}
+  - level: {fileID: 11400000, guid: 3b2790b10a7f70b40b9047ac2fe8ef8b, type: 2}
+  - bossKills: {fileID: 11400000, guid: 6a2d0b094fd897148bdd69d47cd9b878, type: 2}
+  - healthBar: {instanceID: 0}
+  - bossIndicator: {instanceID: 0}
+  - kills: {instanceID: 0}
+  - bloodSpatter: {instanceID: 0}
+  - enemyBullet: {instanceID: 0}
+  - gun: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - aIPath: {instanceID: 0}
+  - ShotgunPU: {fileID: 2900687164111748508, guid: d635cf1bbbb64ff49bfbbf198fa82bab, type: 3}
+  - SMGPU: {fileID: 6818794985258999842, guid: 4d132c3d48c2dd74e9e7e3b6bc776a5a, type: 3}
+  - GrenadePU: {fileID: 8042862926976243547, guid: c1949cb413270d54693804b6f5a12c7b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
