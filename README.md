@@ -1,5 +1,5 @@
 # shooter-game-project
-A three person project done as a school assignment.
+A three person project done as a school assignment. Programming solutions were self-created unless otherwise stated in the scripts.
 
 My programming responsibilities (contributions from other group members possible if tasks overlapped):  
 <a href="https://github.com/Tschokkinen/shooter-game-project/blob/main/Assets/Scripts/PlayerController.cs">PlayerController</a>  
